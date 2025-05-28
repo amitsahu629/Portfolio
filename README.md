@@ -1,5 +1,3 @@
----
-
 # 💼 Amit Kumar Sahu's Portfolio
 
 Welcome to my personal portfolio repository! I'm Amit Kumar Sahu, a passionate front-end developer dedicated to crafting responsive and user-friendly web applications.
