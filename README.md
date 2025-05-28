@@ -22,6 +22,8 @@ portfolio/
 ├── asset/             # Images and other assets
 └── README.md          # Project documentation
 ```
+🌐 Live Demo
+👉 Check it out here! (https://amitsahu629.github.io/portfolio/)
 
 ## 🎨 Features
 
@@ -55,7 +57,7 @@ To view the portfolio locally:
 
 ## 📬 Contact Me
 
-* **Email:** [your.email@example.com](mailto:kumaramitsahu09@gmail.com)
+* **Email:** [kumaramitsahu09@gmail.com](mailto:kumaramitsahu09@gmail.com)
 * **LinkedIn:** [linkedin.com/in/amitsahu630](https://www.linkedin.com/in/amitksahu630/)
 * **GitHub:** [github.com/amitsahu629](https://github.com/amitsahu629)
 
